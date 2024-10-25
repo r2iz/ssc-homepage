@@ -1,0 +1,15 @@
+{
+    "short_name": "聖光学院生徒会ホームページ",
+    "name": "聖光学院生徒会ホームページ",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "/logo_seikogakuin.jpg",
+            "sizes": "310x260",
+            "type": "image/jpg"
+        }
+    ]
+}
